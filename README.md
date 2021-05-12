@@ -1,5 +1,6 @@
 # voice_assistant
-The following modules were installed
+## Requirements
+The modules need to be installed :
 
 gTTs-Google Text to Speech
 
